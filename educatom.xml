@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Canal Educativo TechDev -- Mark01 </title>
+    <link href="http://www.webeducativa.com/feed" rel="self" type="application/atom+xml" />
+    <updated>2028-04-01T12:00:00Z</updated>
+    <author>
+        <name>Mark01</name>
+    </author>
+    <id>http://www.webeducativa.com/feed</id>
+
+    <!-- ***1ª Actualizacion*** -->
+    <entry>
+        <title>Vive Coding ¿Ventaja o Inconveniente?</title>
+        <link href="http://www.webeducativa.com/feed/vivecoding" />
+        <id>http://www.webeducativa.com/feed/vivecoding</id>
+        <summary>El articulo trata sobre como no aprender a programar y no guardar las contraseñas
+            de un sistema de login en un texto plano sin cifrar.</summary>
+        <updated>2025-04-01T08:15:38Z</updated>
+        <author>
+            <name>Chokopalmera</name>
+        </author>
+    </entry>
+
+    <!-- ***2ª Actualizacion*** -->
+    <entry>
+        <title>Becas Tech nacionales</title>
+        <link href="http://www.webeducativa.com/feed/cursos/becastechnac" />
+        <id>http://www.webeducativa.com/feed/cursos/becastechnac</id>
+        <summary>Calendario de apertura de plazo, empresas y cuantia dineraria de las nuevas becas
+            nacionales para el desarrollo de jovenes developers.</summary>
+        <updated>2025-04-02T14:25:00Z</updated>
+        <author>
+            <name>Juan Carlos Balaguer</name>
+        </author>
+    </entry>
+
+    <!-- ***3ª Actualizacion*** -->
+    <entry>
+        <title>CSS 5.01 La revolucion del diseño</title>
+        <link href="http://www.webeducativa.com/feed/devs/frontend/css501" />
+        <id>http://www.webeducativa.com/feed/devs/frontend/css501</id>
+        <summary>Ahondamos en las nuevas actualizaciones de CSS, uso de funciones y nuevos
+            selectores</summary>
+        <updated>2025-04-03T10:15:00Z</updated>
+        <author>
+            <name>Maria de las Nieves Perez Gil</name>
+        </author>
+    </entry>
+
+    <!-- ***4ª Actualización*** -->
+    <entry>
+        <title>Python para principiantes: Guía paso a paso</title>
+        <link href="http://www.webeducativa.com/feed/cursos/pythoninicial" />
+        <id>http://www.webeducativa.com/feed/cursos/pythoninicial</id>
+        <summary>Nuevo curso gratuito para aprender Python desde cero. Ideal para estudiantes sin
+            experiencia previa en programación.</summary>
+        <updated>2025-04-04T09:00:00Z</updated>
+        <author>
+            <name>Pedro San Juan Fernandez</name>
+        </author>
+    </entry>
+
+    <!-- ***5ª Actualización*** -->
+    <entry>
+        <title>Videotutorial: Cómo montar tu servidor web local</title>
+        <link href="http://www.webeducativa.com/feed/tutoriales/servidorlocal" />
+        <id>http://www.webeducativa.com/feed/tutoriales/servidorlocal</id>
+        <summary>Aprende a instalar Apache y configurar tu entorno de desarrollo en tu propio
+            ordenador. Ideal para practicar desarrollo web.</summary>
+        <updated>2025-04-04T13:45:00Z</updated>
+        <author>
+            <name>Joaquin López Martín</name>
+        </author>
+    </entry>
+
+    <!-- ***6ª Actualización*** -->
+    <entry>
+        <title>Seminario: Ética en la Inteligencia Artificial</title>
+        <link href="http://www.webeducativa.com/feed/eventos/etica-ia-2025" />
+        <id>http://www.webeducativa.com/feed/eventos/etica-ia-2025</id>
+        <summary>Reflexionamos sobre los dilemas éticos de la IA en la educación, con la
+            participación de expertos internacionales.</summary>
+        <updated>2025-04-05T11:30:00Z</updated>
+        <author>
+            <name>Dra. Dolores Fuertes Martinez</name>
+        </author>
+    </entry>
+</feed>
